@@ -1,3 +1,39 @@
 .background {
 	font-family: arial;
 }
+
+ul {
+	list-style-type: none;
+	padding: 0;
+	display: inline-block;
+}
+
+.top-button {
+	display: inline;
+}
+
+.top-right {
+	float: right;
+}
+
+#logo {
+	text-align: center;
+	max-width: 272px;
+	height: auto;
+}
+
+#search-bar {
+	text-align: center;
+	max-width: 45vw;
+	height: 16px;
+}
+
+.search-button {
+	text-align: center;
+	padding: 5px 7px 5px 7px;
+	display: inline-block;
+}
+
+@media screen and (max-width: 480px) {
+	
+}
