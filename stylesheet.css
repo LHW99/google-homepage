@@ -2,19 +2,26 @@
 	font-family: arial;
 }
 
-ul {
-	list-style-type: none;
-	padding: 0;
+#top-bar {
 	display: inline-block;
+	width: 100vw;
+	padding-right: 10px;
+	padding-left: 10px;
 }
 
 .top-button {
 	display: inline;
+	margin-right: 10px;
+	text-decoration: none;
+	color: black;
 }
 
 .top-right {
 	float: right;
+	text-align: right;
 	margin-right: 10px;
+	text-decoration: none;
+	color: black;
 }
 
 #logo {
